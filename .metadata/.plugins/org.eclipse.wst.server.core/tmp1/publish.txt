@@ -1,0 +1,3 @@
+#GlassFish 3
+#Mon Jan 07 15:25:31 COT 2019
+org.eclipse.jst.jee.server\:falabella-tin-online-consulta-ear=C\:\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\falabella-tin-online-consulta-ear

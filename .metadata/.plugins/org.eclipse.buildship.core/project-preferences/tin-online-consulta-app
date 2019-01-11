@@ -1,0 +1,10 @@
+#
+#Tue Jan 08 11:56:42 COT 2019
+linkedResources=
+managedNatures=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=falabella-tin-online-consulta-ear;falabella-tin-online-consulta-web
+derivedResources=.gradle;build;falabella-tin-online-consulta-ear/build;falabella-tin-online-consulta-web/build
+buildScriptPath=build.gradle
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build

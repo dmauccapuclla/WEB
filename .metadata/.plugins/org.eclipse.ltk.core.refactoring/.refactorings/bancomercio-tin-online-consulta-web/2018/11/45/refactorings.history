@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;bancomercio-tin-online-consulta-web&apos;&#x0D;&#x0A;- Original project: &apos;bancomercio-tin-online-consulta-web&apos;&#x0D;&#x0A;- Original element: &apos;com.bancomercio.tin.online.report.pruebas.prueba01.java&apos;" description="Delete element" element1="/src\/main\/Test&lt;com.bancomercio.tin.online.report.pruebas{prueba01.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1541599669037" subPackages="false" version="1.0"/>
+</session>

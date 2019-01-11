@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;falabella-tin-online-consulta-web&apos;&#x0D;&#x0A;- Original project: &apos;falabella-tin-online-consulta-web&apos;&#x0D;&#x0A;- Original element: &apos;com.falabella.tin.online.report.pruebas.Main.java&apos;" description="Delete element" element1="/src\/main\/Test&lt;com.falabella.tin.online.report.pruebas{Main.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1542915576590" subPackages="false" version="1.0"/>
+</session>
